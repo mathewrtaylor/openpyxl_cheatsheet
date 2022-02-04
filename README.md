@@ -13,7 +13,7 @@ Pick the notebook and run it! :-)
 
 
 ## Credits
-Thanks to the Openpyxl team at https://foss.heptapod.net/openpyxl/openpyxl
+Thanks to the Openpyxl team at https://foss.heptapod.net/openpyxl/openpyxl <br>
 Full documentation can be had at: https://openpyxl.readthedocs.io/en/stable/
 
 ## License
