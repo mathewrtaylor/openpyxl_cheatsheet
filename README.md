@@ -1,5 +1,7 @@
 # openpyxl_cheatsheet
-Snippets of code and demonstration to create excel spreadhseets.  As I continue to uyse more of Openpyxl, I will add to this; it's my intent to use this as a "cheat sheet".
+It's easy to use python to ingest data and spit out a nicely formatted and completed spreadhseet at the end, and this repository aims at showing you exactly how!! Snippets of code and demonstration to create excel spreadhseets.  As of creating this, this is limited to the Microsoft world, and this was not designed for other spreadhseet programs like Libreoffice Calc.  Future revions will likely care for these differences.
+
+As I continue to use more of Openpyxl and find other fun things to add, I will add to this; it's my intent to use this as a "cheat sheet".
 
 ## Usage
 
